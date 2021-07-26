@@ -2,6 +2,6 @@ The singular value decomposition (SVD) is a factorization of a real or complex m
 The original image is,
 ![alt text](https://github.com/athira-dot/Singular-Value-Decomposition/blob/main/img_for_q3.bmp)
 
-No_singular values used in R,G,B is: 31 29 73
+No_singular values used in R,G,B is: 31 29 73. Then
 [alt text](https://github.com/athira-dot/Singular-Value-Decomposition/blob/main/SVD_70.png)
 
