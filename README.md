@@ -8,13 +8,12 @@ The original image is,
 
 <figure>
 	<img src='SVD_originl.png'>
-    <figcaption>Original image</figcaption>
+	<figcaption>Original image</figcaption>
 </figure>
-No_singular values used in R,G,B is: 31 29 73. 
+
 <figure>
 	<img src='SVD_70.png'>
-    <figcaption>After SVD
- </figcaption>
+	<figcaption>After SVD No_singular values used in R,G,B is: 31 29 73.</figcaption>
 </figure>
 
 
