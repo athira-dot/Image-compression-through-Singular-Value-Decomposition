@@ -10,7 +10,7 @@ The original image is,
 	<img src='SVD_originl.png'>
     <figcaption>Original image</figcaption>
 </figure>
-
+No_singular values used in R,G,B is: 31 29 73. 
 <figure>
 	<img src='SVD_70.png'>
     <figcaption>After SVD
@@ -18,5 +18,5 @@ The original image is,
 </figure>
 
 
-No_singular values used in R,G,B is: 31 29 73. Then
+
 </p>
